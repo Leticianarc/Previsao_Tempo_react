@@ -8,7 +8,7 @@ Construída em **React + TypeScript**, sem chave de API e sem dependências alé
 ![Vite](https://img.shields.io/badge/Vite-6-646cff?logo=vite&logoColor=white)
 
 > 🔁 **Segunda versão deste projeto.** A primeira, em HTML, CSS e JavaScript puro, continua
-> publicada em **[previsao-tempo-js](https://github.com/Leticianarc/previsao-tempo-js)** — e
+> publicada em **[Previsao_Tempo_js](https://github.com/Leticianarc/Previsao_Tempo_js)** — e
 > referencia esta reconstrução no próprio README.
 >
 > O que mudou de uma versão para a outra:
