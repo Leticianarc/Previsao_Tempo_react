@@ -7,6 +7,20 @@ Construída em **React + TypeScript**, sem chave de API e sem dependências alé
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.7-3178c6?logo=typescript&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-6-646cff?logo=vite&logoColor=white)
 
+> 🔁 **Este projeto existe em duas versões.** Esta é a reconstrução em React e TypeScript do
+> meu projeto original em HTML, CSS e JavaScript puro, que segue publicado em
+> **[previsao-tempo-js](https://github.com/Leticianarc/previsao-tempo-js)**.
+>
+> O que mudou de uma para a outra:
+>
+> | | JavaScript puro | React + TypeScript |
+> | --- | --- | --- |
+> | Interface | `innerHTML` e `querySelector` | Componentes reutilizáveis |
+> | Tipos | Nenhum | TypeScript em modo estrito |
+> | Requisições | Chamadas direto na tela | Camada de API isolada e tipada |
+> | Busca concorrente | Última resposta sobrescreve | Cancelada com `AbortController` |
+> | Erros | Mensagem única | Estados `idle`/`loading`/`success`/`error` |
+
 ## Funcionalidades
 
 - Busca de cidades por nome, com geocodificação automática
